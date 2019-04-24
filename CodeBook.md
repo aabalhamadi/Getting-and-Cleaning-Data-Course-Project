@@ -1,19 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@aabalhamadi 
-1
-5 126 spujadas/getting-and-cleaning-data-course-project
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-getting-and-cleaning-data-course-project/CodeBook.md 
-Newer           Older
- 100644  232 lines (149 sloc)  10.9 KB
 # Code book for Coursera *Getting and Cleaning Data* course project
 
 The data set that this code book pertains to is located in the `tidy_data.txt` file of this repository.
@@ -246,15 +230,3 @@ The following transformations were applied to the source data:
 1. From the data set in step 4, the final data set was created with the average of each variable for each activity and each subject.
 
 The collection of the source data and the transformations listed above were implemented by the `run_analysis.R` R script (see `README.md` file for usage instructions).
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
